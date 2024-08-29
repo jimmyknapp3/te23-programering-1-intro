@@ -1,0 +1,6 @@
+print("hej och välkommen till mitt program")
+namn = input("vad heter du:")
+print(f"hej {namn} vad kul att du är här!")
+print("jag undrar hur gammal du är?")
+ålder = input("hur gammal är du ")
+print(f"Tack, vad fint att du är {ålder} år ung")
