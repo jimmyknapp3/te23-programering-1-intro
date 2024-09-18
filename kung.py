@@ -24,12 +24,5 @@ while run:
         run = False
     elif player_two_score >= 2:
         print("spelare 2 var först att vinna 2 av 3 rundor")
-        run = False
-
-    if run is False:
-        rerun = input("vill du köra igen ja/nej?")
-        if rerun == "ja" or rerun == "":
-            run = True
-
-
-
+        run = False     
+        
